@@ -1,4 +1,4 @@
 # demo-react-native-app
 
-npm start
+expo || npm start
 
